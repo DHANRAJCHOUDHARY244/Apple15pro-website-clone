@@ -36,7 +36,9 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](https://github.com/DHANRAJCHOUDHARY244/Apple15pro-website-clone/blob/main/screenshots/s1.png)
+![Screen Shot](https://github.com/DHANRAJCHOUDHARY244/Apple15pro-website-clone/blob/main/screenshots/s2.png)
+![Screen Shot](https://github.com/DHANRAJCHOUDHARY244/Apple15pro-website-clone/blob/main/screenshots/s3.png)
 
 # Apple iPhone 15 Pro Website Clone
 This project is a clone of Apple's iPhone 15 Pro website, showcasing the phone's features and design using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
@@ -64,7 +66,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+* **Pre Node installed**
 
 * npm
 
